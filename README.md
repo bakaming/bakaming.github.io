@@ -1,0 +1,2 @@
+# bakaming.github.io
+pages
